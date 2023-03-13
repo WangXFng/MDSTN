@@ -1,0 +1,6 @@
+*.npy
+*.h5
+*.ttf
+.idea/*
+__pycache__/*
+*.csv
