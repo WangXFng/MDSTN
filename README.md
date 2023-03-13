@@ -10,7 +10,7 @@
 ### 1. Preprocessing data
 * Step 1. Download the [NYCBike](https://data.cityofnewyork.us/) dataset.
 * Step 2. Process the POI data by getPOI.py, POIFromCSV.py in the folder of "preprocess"
-* Step 3. Process traffic volume by ToMapNYCBike.py
+* Step 3. Process the traffic volume by ToMapNYCBike.py and ProcessInOutFlow.py in the folder of "preprocess"
 * Step 4. Modify the file path in MDSTN.py and run
 > python MDSTN.py
 
