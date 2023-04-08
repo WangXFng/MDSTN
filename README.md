@@ -4,15 +4,13 @@
 * Tensorflow > 2.0.0
 * [Anaconda](https://www.anaconda.com/) 4.8.2 contains all the required packages.
 
-### Instructions
-
-### Before running MDSTN
+### Prepare Data
 * Step 1. Download the [NYCBike](https://data.cityofnewyork.us/) dataset.
-* Step 2. Process the POI data by getPOI.py, POIFromCSV.py in the folder of "preprocess".
+* Step 2. Process the POI data by getPOI.py, POIFromCSV.py in the folder of preprocess.
 * Step 3. Process the traffic volume by ToMapNYCBike.py and ProcessInOutFlow.py.
-* Step 4. Modify the file path in MDSTN.py and run
+* Step 4. Modify the file path in MDSTN.py.
 
-### Run
+### Run MDSTN
     python MDSTN.py
 
 ### Note
