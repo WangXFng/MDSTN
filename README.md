@@ -13,7 +13,7 @@
 * Step 4. Modify the file path in MDSTN.py and run
 
 ### Run
-  python MDSTN.py
+    python MDSTN.py
 
 ### Note
 * If there is any problem, please contact to kaysen@hdu.edu.cn.
