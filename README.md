@@ -12,6 +12,3 @@
 ### Dependencies
 * Tensorflow > 2.0.0
 * [Anaconda](https://www.anaconda.com/) 4.8.2 contains all the required packages.
-
-### Note
-* If there is any problem, please contact to kaysen@hdu.edu.cn.
