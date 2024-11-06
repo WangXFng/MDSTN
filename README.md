@@ -12,3 +12,6 @@
 ### Dependencies
 * Tensorflow > 2.0.0
 * [Anaconda](https://www.anaconda.com/) 4.8.2 contains all the required packages.
+
+### Note
+* This repository is no longer maintained, as it was finished long time ago (2019 ~ 2020). It is recommended to utilize the latest technoloies for traffic prediction, such as GNNs and Transformer. Good luck!
