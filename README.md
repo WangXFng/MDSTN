@@ -1,7 +1,7 @@
 # MDSTN (Multi-Directional Short-Term Traffic Volume Prediction based on Spatio-Temporal Networks)
 
 ### Note
-* This repository is **no longer maintained**, as it was finished long time ago (2019 ~ 2020). It is recommended to utilize the latest technoloies for traffic prediction, such as GNNs and Transformer. Good luck!
+* This repository is **no longer maintained**, as it was finished a long time ago (2019 ~ 2020). It is recommended to utilize the latest technologies for traffic prediction, such as GNNs and Transformers, instead of CNNs. Good luck!
 
 ### Prepare Data
 * Step 1. Download the [NYCBike](https://data.cityofnewyork.us/) dataset.
